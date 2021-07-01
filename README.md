@@ -1,6 +1,6 @@
 # JavaScript Interview Questions & Answers
 
-> Click :star :if you like the project. Pull Requests are highly appreciated.
+> Click :star: if you like the project. Pull Requests are highly appreciated.
 
 ## Downloading PDF/Epub formats
 
