@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Home](README.md)
+* [Frontend Maverick](README.md)
 
